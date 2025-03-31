@@ -41,7 +41,7 @@ A primeira página é exibida a lista de todos os seus sites, com informações 
 ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/paginas-listagem-sitios.png)
 
 ### 3. Observatório do site
-Explore estatísticas detalhadas, incluindo Pontuação Média, Mancha de Acessibilidade, Gráficos de Distribuição de Pontuações, as 10 Melhores Práticas mais frequentes e a tabela de listagem de páginas do site.  
+Ao clicar no nome de um site na tabela de sítios web será apresentada uma página de estatísticas detalhadas, incluindo Pontuação Média, Mancha de Acessibilidade, Gráficos de Distribuição de Pontuações, as 10 Melhores Práticas mais frequentes e a tabela de listagem de páginas do site.  
 ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/pagina-estatisticas.png)
 
 
