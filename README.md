@@ -42,32 +42,39 @@ Veja a lista de todos os seus sites, com informações como nome, pontuação, s
 
 ### 3. Observatório do site
 Explore estatísticas detalhadas, incluindo Pontuação Média, Mancha de Acessibilidade, Gráficos de Distribuição de Pontuações, as 10 Melhores Práticas mais frequentes e a tabela de listagem de páginas do site.  
-*[Imagem da página de estatísticas]*
+![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/pagina-estatisticas.png)
+
 
 ### 4. Adicionar uma página ao site
 Na tabela de listagem de páginas, clique no botão "Adicionar" no cabeçalho para incluir novas páginas.  
-*[Imagem da tabela indicando o botão]*  
+![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/section-listar-paginas.png)
+ 
 
 Ao clicar, uma janela com 4 abas será exibida:  
-*[Imagem da janela de adicionar página]*  
+![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/inserir-url.png)
+
 - **a. Inserir Manualmente**: Adicione páginas inserindo links diretamente na caixa de texto.  
 - **b. Inserir Sitemap**: Importe páginas a partir de um arquivo TXT ou XML (acesse exemplos clicando nos links abaixo do campo).  
-  *[Imagem da aba "Inserir Sitemap"]*  
+  ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/inserir-sitemap.png)
+
 - **c. Crawl do Site**: Execute uma varredura automática para identificar páginas.  
-  *[Imagem da aba "Crawl do Site"]*  
+   ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/crawl-sitio-web.png)
+
 - **d. Transferir Observatório**: Transfira dados do observatório (detalhes a especificar).
 
 ### 5. Remover uma página do site
 Na tabela de listagem, selecione as páginas desejadas usando as caixas de seleção e clique no botão "Remover" no cabeçalho.  
-*[Imagem com página selecionada indicando o botão "Remover"]*
+![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/remove-page.png)
+
 
 ### 6. Tomar medidas corretivas
 Após corrigir erros de acessibilidade, reavalie as páginas atualizadas. Certifique-se de que a versão mais recente está no site, selecione as páginas corrigidas na tabela e clique em "Reavaliar".  
-*[Imagem de páginas selecionadas indicando o botão "Reavaliar"]*
+![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/reavaliate-page.png)
 
 ### 7. Visualizar estatísticas por página
 Clique em uma página na tabela para ver estatísticas detalhadas e sugestões de correção. A partir daí, você pode reavaliar a página ou exportar os resultados em CSV.  
-*[Imagem da página de detalhes]*
+![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/page-estatisticas.png)
+
 
 ---
 
