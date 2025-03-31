@@ -37,7 +37,7 @@ Faça login com as credenciais fornecidas.
 ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/pagina-login.png)
 
 ### 2. Visualizar todos os sites
-A primeira página é exibida a lista de todos os seus sites, com informações como nome, pontuação, selo e número de conformidades por tipo. Clique no nome de um site para acessar seu observatório.  
+A primeira página é exibida a lista de todos os seus sites, com informações como nome, pontuação, selo e número de páginas em conformidades por tipo. Clique no nome de um site para acessar seu observatório.  
 ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/paginas-listagem-sitios.png)
 
 ### 3. Observatório do site
