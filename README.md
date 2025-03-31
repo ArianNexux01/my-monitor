@@ -34,11 +34,11 @@ O acesso ao **MyMonitor** é exclusivo para responsáveis por websites de entida
 
 ### 1. Login na plataforma
 Faça login com as credenciais fornecidas.  
-*[Imagem da página de login]*
+![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/pagina-login.png)
 
 ### 2. Visualizar todos os sites
 Veja a lista de todos os seus sites, com informações como nome, pontuação, selo e número de conformidades por tipo. Clique no nome de um site para acessar seu observatório.  
-*[Imagem da página de listagem de sites]*
+![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/paginas-listagem-sitios.png)
 
 ### 3. Observatório do site
 Explore estatísticas detalhadas, incluindo Pontuação Média, Mancha de Acessibilidade, Gráficos de Distribuição de Pontuações, as 10 Melhores Práticas mais frequentes e a tabela de listagem de páginas do site.  
