@@ -164,22 +164,22 @@ Clique numa página na tabela para ver o **relatório de práticas de acessibili
 
 ## Perguntas frequentes
 
-**Quem pode usar o MyMonitor?**  
+ - **Quem pode usar o MyMonitor?**  
 Responsáveis por sites das entidades e profissionais autorizados.
 
-**O que distingue o MyMonitor do AccessMonitor?**  
+ - **O que distingue o MyMonitor do AccessMonitor?**  
 Embora o MyMonitor utilize o mesmo motor de avaliação do AccessMonitor, o MyMonitor disponibiliza um conjunto alargado de funcionalidades que a tornam mais poderosa e eficaz. A grande vantagem do MyMonitor é a possibilidade de analisar **múltiplas páginas em simultâneo**, algo que o validador AccessMonitor não oferece. A plataforma permite aos gestores dos websites identificarem quais são as páginas que estão a comprometer a acessibilidade geral do site, facilitando a definição de prioridades para a sua melhoria.
 
-**O MyMonitor corrige os erros automaticamente?**  
+ - **O MyMonitor corrige os erros automaticamente?**  
 Não. O MyMonitor identifica problemas e sugere melhorias, mas as correções devem ser feitas pelos responsáveis e gestores dos sites.
 
-**É necessário instalar algum software?**  
+ - **É necessário instalar algum software?**  
 Não. O MyMonitor é uma plataforma **online e gratuita** acessível pelo navegador.
 
-**A análise do MyMonitor substitui uma auditoria humana?**  
+ - **A análise do MyMonitor substitui uma auditoria humana?**  
 Não. Embora o MyMonitor automatize grande parte do processo, uma **revisão manual** é recomendada para atingir a máxima conformidade em termos de acessibilidade web.
 
-**O que é a “mancha de acessibilidade”?**  
+ - **O que é a “mancha de acessibilidade”?**  
 Uma das funcionalidades mais inovadoras do MyMonitor é a **"mancha de acessibilidade"**, que representa visualmente o nível de acessibilidade das páginas monitorizadas. Ela permite detetar rapidamente as páginas que fogem ao padrão e que necessitam de intervenção.
 
 ## Sugestões
