@@ -1,98 +1,187 @@
-# 📢 Boas-vindas ao MyMonitor
+# Manual do MyMonitor
 
-Bem-vindo ao **MyMonitor**, a plataforma desenvolvida pela **Agência para a Modernização Administrativa (AMA)** para monitorizar e melhorar a acessibilidade dos sítios web das entidades públicas em Portugal. Com o MyMonitor, pode analisar diversas páginas de um sítio web, identificar pontos críticos de acessibilidade e promover um ambiente digital mais inclusivo para todos.
+## Índice
+- [Boas-vindas ao MyMonitor](#boas-vindas-ao-mymonitor)
+- [O que é o MyMonitor?](#o-que-é-o-mymonitor)
+- [A quem se destina](#a-quem-se-destina)
+- [Pedido de credenciais de acesso](#pedido-de-credenciais-de-acesso)
+- [Como utilizar o MyMonitor](#como-utilizar-o-mymonitor)
+  - [Iniciar sessão no MyMonitor](#iniciar-sessão-no-mymonitor)
+  - [Visualizar os sítios web](#visualizar-os-sítios-web)
+  - [Aceder às estatísticas do sítio web](#aceder-às-estatísticas-do-sítio-web)
+  - [Gestão de páginas no MyMonitor](#gestão-de-páginas-no-mymonitor)
+  - [Adicionar páginas no MyMonitor](#adicionar-páginas-no-mymonitor)
+  - [Escolha a sua modal de importação de páginas](#escolha-a-sua-modal-de-importação-de-páginas)
+    - [Inserir manualmente](#inserir-manualmente)
+    - [Inserir sitemap](#inserir-sitemap)
+    - [Crawl do sítio web](#crawl-do-sítio-web)
+    - [Transferir do Observatório](#transferir-do-observatório)
+  - [Remover páginas no MyMonitor](#remover-páginas-no-mymonitor)
+  - [Ações corretivas](#ações-corretivas)
+  - [Reavaliar páginas](#reavaliar-páginas)
+  - [Consultar o relatório de práticas de acessibilidade web](#consultar-o-relatório-de-práticas-de-acessibilidade-web)
+- [Perguntas frequentes](#perguntas-frequentes)
+- [Sugestões](#sugestões)
 
----
+## 📢 Boas-vindas ao MyMonitor
+
+Bem-vindo ao **MyMonitor**, a plataforma desenvolvida pela **Agência para a Modernização Administrativa (AMA)** para monitorizar e melhorar a acessibilidade dos websites, também denominados sítios web, das entidades públicas em Portugal. Com o MyMonitor, pode analisar diversas páginas de um sítio web, identificar pontos críticos de acessibilidade e promover um ambiente digital mais inclusivo para todos.
 
 ## 🔍 O que é o MyMonitor?
 
-O **MyMonitor** é uma ferramenta inovadora baseada no motor de avaliação do **AccessMonitor**. As suas principais funcionalidades incluem:
+O **MyMonitor** é uma plataforma inovadora baseada no motor de avaliação do **AccessMonitor** que tem como objetivo apoiar as entidades públicas no cumprimento das **Diretrizes de Acessibilidade para Conteúdos Web (WCAG)**, garantindo uma experiência digital mais inclusiva para todos os cidadãos.
 
-- Monitorização contínua da acessibilidade de sítios web.
-- Identificação de problemas que afetam a usabilidade e a inclusão.
-- Elaboração de relatórios detalhados para orientar melhorias.
-- Visualização da **"mancha de acessibilidade"**, um mapa que destaca as áreas mais críticas de um sítio web.
+As suas principais funcionalidades incluem:
+- A visualização da **"mancha de acessibilidade"**, um mapa que destaca visualmente as áreas mais críticas de um sítio web e que precisam de intervenção;
+- A **gestão ativa de avaliações**, possibilitando a adição ou remoção de páginas monitorizadas e a solicitação de novas análises após a implementação de melhorias;
+- A **importação flexível de páginas**. O MyMonitor oferece várias opções para importar páginas a serem avaliadas: inserção manual de URLs, carregamento de ficheiro com endereços de páginas, importação de sitemap em formato XML e transferência de páginas já analisadas pelo Observatório da Acessibilidade Web;
+- **Elaboração de relatórios** com gráficos e tabelas detalhados.
 
-O objetivo é apoiar as entidades públicas no cumprimento das **Diretrizes de Acessibilidade para Conteúdos Web (WCAG)**, garantindo uma experiência digital mais acessível e equitativa.
+## A quem se destina
 
----
+O acesso ao **MyMonitor** é destinado exclusivamente aos **responsáveis dos sites** e **profissionais autorizados**.
 
-## 🚀 Como começar a utilizar
+## Pedido de credenciais de acesso
 
-O acesso ao **MyMonitor** é destinado exclusivamente aos responsáveis dos sítios web de entidades públicas e profissionais autorizados. Leia com atenção as seguintes instruções e siga os passos indicados: :
+Para aceder à plataforma MyMonitor, é necessário solicitar previamente as credenciais de acesso. Este pedido deve ser realizado exclusivamente pelo **proprietário do site** e requer a utilização do **Cartão de Cidadão** ou da **Chave Móvel Digital**.
 
-1. Solicite as suas credenciais enviando um e-mail para **acessibilidade@ama.gov.pt**, indicando as seguintes informações:
-   - Nome da entidade.
-   - Endereço do do sítio web a ser monitorizado.
-   - Contacto para validação.
-2. Aguarde a confirmação por parte AMA.
-3.Aceda à plataforma do MyMonitor com os dados recebidos utilizando o **Cartão de Cidadão** ou a **Chave Móvel Digital**.
+Leia com atenção as seguintes instruções e siga os passos indicados:
 
----
+**Passo 1 – Envie um e-mail à AMA**
 
-## 🛠 Como utilizar o MyMonitor
+Envie um e-mail para **acessibilidade@ama.gov.pt**, com os seguintes dados:
+- **Nome da Entidade Proprietária**:
+- **Nome da pessoa responsável na entidade**:
+- **Contacto**: telefone / e-mail institucional;
+- **Sítio(s) Web a registar no MyMonitor**:
+  - **Endereço (URL)**:
+  - **Designação**:
 
-### 1. Iniciar sessão na plataforma MyMonitor
-Faça login com as credenciais fornecidas.  
+**Passo 2 – Aguarde o contacto por parte da AMA**
+
+A AMA recebeu o seu pedido e entrará em contacto no prazo máximo de **24 horas**. Certifique-se que tem consigo o **Cartão de Cidadão** (ou **Chave Móvel Digital**) de todas as pessoas que necessitarão de acesso à plataforma.
+
+**Passo 3 – Aceda à plataforma MyMonitor**
+
+Assim que receber as credenciais da AMA, poderá aceder ao MyMonitor utilizando o seu **Cartão de Cidadão** ou a **Chave Móvel Digital**, através do portal indicado.
+
+## Como utilizar o MyMonitor
+
+### Iniciar sessão no MyMonitor
+
+Visite o site oficial do MyMonitor e faça login com as suas credenciais, nomeadamente utilizador e palavra-chave.
+
 ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/pagina-login.png)
 
-### 2. Visualizar todos os sítios web
-A primeira página exibe a lista de todos os seus sítios web, com informações como nome, pontuação, declaração de acessibilidade, selo e número de páginas em conformidade por tipo (A, AA, AAA). Clique no nome do sítio web para aceder ao seu Observatório
+### Visualizar os sítios web
+
+Na página inicial, verá uma lista de todos os seus **sítios web** com informações relevantes como o **nome da página**, **pontuação do AccessMonitor**, **declaração de acessibilidade**, **selo de acessibilidade e usabilidade** e **número de páginas** segundo os níveis de conformidade das WCAG, sendo **A** (o nível mais baixo), **AA** (nível intermédio) e **AAA** (o mais alto). Clique no nome do sítio web para aceder aos seus dados.
+
 ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/paginas-listagem-sitios.png)
 
-### 3. Estatísticas do site
-Ao clicar no nome de um sítio web na tabela de sites, será apresentada uma página de estatísticas detalhadas, incluindo a Pontuação Média, a Mancha de Acessibilidade, os Gráficos de Distribuição de Pontuações, as 10 Melhores Práticas mais frequentes e a tabela de listagem de páginas do site.  
+### Aceder às estatísticas do sítio web
+
+Ao clicar no nome de um sítio web na tabela de sítios web, será apresentada a sua página com as **estatísticas detalhadas**.
+
+Estas estatísticas incluem:
+- A **pontuação média** segundo o índice AccessMonitor (de 1 a 10);
+- A **“mancha de acessibilidade”**;
+- Os **gráficos de distribuição de pontuações**;
+- As **10 melhores e piores práticas de acessibilidade** presentes no seu sítio web e a sua distribuição detalhada;
+- A **tabela da lista de páginas totais** que compõem o seu sítio web.
+
 ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/pagina-estatisticas.png)
 
-### 4.  Adicionar uma página ao site um sítio web
-Para adicionar uma nova página web ainda na tela de estatísticas de umo sitesítio web, percorra a página até à tabela de listagem de páginas. De seguida, clique no botão "Adicionar" como ilustrado na imagem abaixo para incluir novas páginas.
+
+## Gestão de páginas no MyMonitor
+
+### Adicionar páginas no MyMonitor
+
+Para adicionar uma nova página ao seu sítio web, clique no seu sítio web e percorra a página das estatísticas até à tabela onde aparece a lista total de páginas.
+
+De seguida, clique no botão **"Adicionar"** como ilustrado na imagem abaixo para incluir novas páginas.
+
 ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/section-listar-paginas.png)
 
-Ao clicar no botão “Adicionar” será exibida uma modal com 4 abas:
-![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/inserir-url.png)
-Estas abas descrevem 4 opções possíveis de adicionar páginas:
+### Escolha a sua modal de importação de páginas
 
-- **a. Inserir manualmente**: Adicione páginas inserindo os respetivos links diretamente na caixa de texto.  
-- **b. Inserir sitemap**: Importe páginas a partir de um ficheiro em formato TXT ou XML.  Veja exemplos de mapa de sítios web em formato txt e formato xml ao clicar nos links para o efeito.  
-  ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/inserir-sitemap.png)
+Ao clicar no botão “Adicionar”, será exibida uma modal com 4 abas. Estas abas oferecem **quatro opções** para a importação das páginas a avaliar.
 
-- **c. Crawl do Site**:: Execute uma análise automática para identificar páginas indexadas ao seu sítio web..  
-   ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/crawl-sitio-web.png)
+Escolha uma das quatro opções de importação de páginas:
 
-- **d. Transferir do Observatório**:Transfira os dados do Observatório Português da Acessibilidade Web  (detalhes a especificar).
+ - #### a) Inserir manualmente
+    Adicione páginas inserindo os respetivos **URLs** diretamente na caixa de texto.
 
-### 5. Remover uma página do site
-Na tabela de lista de páginas, selecione a(s) página(s) desejadas utilizando as caixas de seleção e clique no botão "Remover" no cabeçalho.
+    ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/section-listar-paginas.png)
+
+ - #### b) Inserir sitemap
+    Importe páginas a partir de um ficheiro em formato **TXT** ou **XML**. Veja exemplos de mapa de sítios web em [formato txt](#) e [formato xml](#) ao clicar nos links para o efeito.
+
+    ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/inserir-sitemap.png)
+
+ - #### c) Crawl do sítio web
+    Execute uma análise automática para identificar páginas indexadas ao seu sítio web. Este *crawl* **não tem limite de páginas**, contudo as páginas sob login que necessitem de autenticação não serão avaliadas.
+
+    ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/crawl-sitio-web.png)
+
+ - #### d) Transferir do Observatório
+    Transfira as páginas já analisadas pelo **Observatório Português da Acessibilidade Web**.
+
+    ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/transfer-observatory.png)
+    
+Neste último caso, além das páginas, também será importada a **última avaliação realizada pela AMA**, mas qualquer nova análise feita no MyMonitor será **independente da avaliação oficial do Observatório**.
+
+### Remover páginas no MyMonitor
+
+Para remover uma página ao seu sítio web, clique no seu sítio web e percorra a página das estatísticas até à tabela onde aparece a lista total de páginas.
+
+De seguida, selecione a **caixa de seleção** da página que deseja remover e depois clique no botão **"Remover"** como ilustrado na imagem abaixo.
+
 ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/remove-page.png)
 
-### 6. Tomar medidas corretivas
-Após corrigir os erros de acessibilidade, reavalie as páginas atualizadas. Certifique-se de que a versão mais recente está no sítio web, selecione as páginas corrigidas na tabela e clique em "Reavaliar".  
+## Ações corretivas
+
+### Reavaliar páginas
+
+Após corrigir os erros, é recomendável fazer uma nova reavaliação das páginas.
+
+Para isso, clique no seu sítio web e percorra a página das estatísticas até à tabela onde aparece a lista total de páginas.
+
+Selecione a página a atualizar e clique em **“Reavaliar”** para uma nova análise.
+
 ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/reavaliate-page.png)
 
-### 7. Visualizar estatísticas por página
-Clique numa página na tabela para ver as estatísticas detalhadas e sugestões de correção. Irá ser apresentado um sumário de avaliação com o tipo de práticas encontradas (aceitáveis, para ver manualmente e não aceitáveis).  A partir daí, pode reavaliar a página ou exportar os resultados em formato CSV.
+### Consultar o relatório de práticas de acessibilidade web
+
+Clique numa página na tabela para ver o **relatório de práticas de acessibilidade web** e sugestões de melhorias. Irá ser apresentado um **sumário de avaliação** com o tipo de práticas encontradas (“Aceitáveis”, “Para ver manualmente” e “Não aceitáveis”). A partir daí, pode:
+- **Reavaliar a página** novamente;
+- Ver **código da página** em “Ver página”;
+- **Descarregar os resultados da avaliação** em formato **CSV**.
+
+**Nota**: Atualmente, os relatórios só podem ser descarregados individualmente para cada página, mas, no futuro, será possível exportar relatórios completos de um website inteiro.
+
 ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/page-estatisticas.png)
 
----
+## Perguntas frequentes
 
-## ❓ Perguntas Frequentes
+**Quem pode usar o MyMonitor?**  
+Responsáveis por sites das entidades e profissionais autorizados.
 
-**📌 Quem pode usar o MyMonitor?**  
-Responsáveis por sítios web de entidades públicas e profissionais autorizados.
+**O que distingue o MyMonitor do AccessMonitor?**  
+Embora o MyMonitor utilize o mesmo motor de avaliação do AccessMonitor, o MyMonitor disponibiliza um conjunto alargado de funcionalidades que a tornam mais poderosa e eficaz. A grande vantagem do MyMonitor é a possibilidade de analisar **múltiplas páginas em simultâneo**, algo que o validador AccessMonitor não oferece. A plataforma permite aos gestores dos websites identificarem quais são as páginas que estão a comprometer a acessibilidade geral do site, facilitando a definição de prioridades para a sua melhoria.
 
-**📌 O MyMonitor corrige os erros automaticamente?**  
-Não. Ele identifica problemas e sugere melhorias, mas as correções devem ser feitas pelos gestores do sítio web.
+**O MyMonitor corrige os erros automaticamente?**  
+Não. O MyMonitor identifica problemas e sugere melhorias, mas as correções devem ser feitas pelos responsáveis e gestores dos sites.
 
-**📌 É necessário instalar algum software?**  
-Não. O MyMonitor é uma plataforma online acessível pelo navegador.
+**É necessário instalar algum software?**  
+Não. O MyMonitor é uma plataforma **online e gratuita** acessível pelo navegador.
 
-**📌 A análise do MyMonitor substitui uma auditoria humana?**  
-Não. Embora automatize grande parte do processo, uma revisão manual é recomendada para atingir a máxima conformidade de acessibilidade web.
+**A análise do MyMonitor substitui uma auditoria humana?**  
+Não. Embora o MyMonitor automatize grande parte do processo, uma **revisão manual** é recomendada para atingir a máxima conformidade em termos de acessibilidade web.
 
----
+**O que é a “mancha de acessibilidade”?**  
+Uma das funcionalidades mais inovadoras do MyMonitor é a **"mancha de acessibilidade"**, que representa visualmente o nível de acessibilidade das páginas monitorizadas. Ela permite detetar rapidamente as páginas que fogem ao padrão e que necessitam de intervenção.
 
-## 💡 Sugira melhorias
+## Sugestões
 
-Tem ideias para melhorar o **MyMonitor**? A AMA quer ouvir a sua opinião! Envie as suas sugestões para **acessibilidade@ama.gov.pt** ou utilize a área de feedback na plataforma.
-
-Juntos, estamos a construir um mundo digital mais acessível para todos! ✨
+Tem ideias para melhorar o **MyMonitor**? A AMA quer ouvir a sua opinião! Envie as suas sugestões para **acessibilidade@ama.gov.pt**. Juntos estamos a construir um mundo digital mais acessível para todos!
