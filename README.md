@@ -97,7 +97,7 @@ Estas estatísticas incluem:
 
 ### Adicionar páginas no MyMonitor
 
-Para adicionar uma nova página ao seu sítio web, clique no seu sítio web e percorra a página das estatísticas até à tabela onde aparece a lista total de páginas.
+Para adicionar uma nova página ao seu sítio web, clique no seu sítio web e percorra a página das estatísticas até à secção mais perto do final da página designada por “Páginas do sítio web” onde aparece a lista total de páginas.  
 
 De seguida, clique no botão **"Adicionar"** como ilustrado na imagem abaixo para incluir novas páginas.
 
@@ -105,7 +105,9 @@ De seguida, clique no botão **"Adicionar"** como ilustrado na imagem abaixo par
 
 ### Escolha a sua modal de importação de páginas
 
-Ao clicar no botão “Adicionar”, será exibida uma modal com 4 abas. Estas abas oferecem **quatro opções** para a importação das páginas a avaliar.
+Ao clicar no botão “Adicionar”, será redirecionado para uma página com 4 abas. Estas abas oferecem **quatro opções** para a importação das páginas a avaliar.
+
+![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/adicionar-paginas.png)
 
 Escolha uma das quatro opções de importação de páginas:
 
