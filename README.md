@@ -160,7 +160,7 @@ Clique numa página na tabela para ver o **relatório de práticas de acessibili
 - Ver **código da página** em “Ver página”;
 - **Descarregar os resultados da avaliação** em formato **CSV**.
 
-**Nota**: Atualmente, os relatórios só podem ser descarregados individualmente para cada página, mas, no futuro, será possível exportar relatórios completos de um website inteiro.
+**Nota**: Atualmente, os relatórios só podem ser descarregados individualmente para cada página.
 
 ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/page-estatisticas.png)
 
