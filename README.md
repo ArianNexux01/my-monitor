@@ -97,13 +97,14 @@ Estas estatísticas incluem:
 
 ### Adicionar páginas no MyMonitor
 
-Para adicionar uma nova página ao seu sítio web, clique no seu sítio web e percorra a página das estatísticas até à secção mais perto do final da página designada por “Páginas do sítio web” onde aparece a lista total de páginas.  
+Para adicionar uma nova página ao seu sítio web, clique no seu sítio web e percorra a página das estatísticas até à secção mais perto do final da página designada por “Páginas do sítio web” onde aparece a lista total de páginas.
 
-De seguida, clique no botão **"Adicionar"** como ilustrado na imagem abaixo para incluir novas páginas.
+De seguida clique no botão "Adicionar" como ilustrado na imagem abaixo para incluir novas páginas. Será redirecionado para uma nova página.  
 
 ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/section-listar-paginas.png)
 
-### Escolha a sua modal de importação de páginas
+### Escolha uma das quatro opções para importar as páginas do seu sítio web
+Esta página dispõe de quatro opções para a importação das páginas a avaliar.  
 
 Ao clicar no botão “Adicionar”, será redirecionado para uma página com 4 abas. Estas abas oferecem **quatro opções** para a importação das páginas a avaliar.
 
@@ -114,7 +115,7 @@ Escolha uma das quatro opções de importação de páginas:
  - #### a) Inserir manualmente
     Adicione páginas inserindo os respetivos **URLs** diretamente na caixa de texto.
 
-    ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/section-listar-paginas.png)
+![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/adicionar-paginas.png)
 
  - #### b) Inserir sitemap
     Importe páginas a partir de um ficheiro em formato **TXT** ou **XML**. Veja exemplos de mapa de sítios web em [formato txt](#) e [formato xml](#) ao clicar nos links para o efeito.
